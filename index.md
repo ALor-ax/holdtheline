@@ -1,6 +1,3 @@
----
-title: Hold the Line - Options for Resistance
----
 
 # **Hold the Line**
 
@@ -11,8 +8,7 @@ title: Hold the Line - Options for Resistance
    1. ### **Updated 3/14/2025**
 
       2. **NOTE 1: Currently updating this on Cryptpad, and will distribute later today, tomorrow, or Monday (note made 3-15-25)**  
-      3.   
-         **NOTE 2: I got 32 pages re-written and organized on cryptpad today. Should finish the updates tomorrow.**
+      3. **NOTE 2: I got 32 pages re-written and organized on cryptpad today. Should finish the updates tomorrow.**
 
 **Go to the “Donate Now\!” section please above S1: Protest**  
 **(I do *not* want donations \- I want you to support others)**
@@ -1521,13 +1517,11 @@ Here are useful links from across the political spectrum:
 
 18. [How does this help the American People](https://www.nbcnews.com/business/business-news/treasury-ends-enforcement-business-ownership-database-meant-stop-shell-rcna194493)?
 
-    
-
-    # 
-
 # **Final Plea**
 
 The world is looking at us, and most of us are still sitting on the couch. The world needs us to protest. We must defeat the tech bro oligarchy. We need to then hold billionaires accountable *just like we held people accountable in WWII*.
 
 
 And remember, if everything fails, I will leave you with [this thought](https://www.youtube.com/watch?v=XfUo2mPYQ2E&ab_channel=LakeshoreRecords).
+
+-- This is a mirror of "Hold the Line:Options to Resist"
