@@ -1,2 +1,14 @@
-theme: Dinky
+theme: minima
 title: Hold The Line - Options for Resistance
+
+minima:
+  social_links:
+    - title: '5051'
+      url: "https://www.fiftyfifty.one"
+    - title: '@5051Movement'
+      icon: bluesky
+      url: "https://bsky.app/profile/50501movement.bsky.social"
+    - title: 'r/5051'
+      icon: reddit
+      url: "https://www.reddit.com/r/50501/"
+
