@@ -4,103 +4,156 @@
 
 ### **Edition 7**
 
-### **Updated 3/16/2025**
+### **Updated 3/23/2025**
 
 ***
 
-**Table of Contents**
+## **0.0 Table of Contents**
 
-**Note**
-Proton does not allow TOC generation via headers,** it does not allow internal linking, *and* it doesn't have page numbers. Therefore, I am providing this TOC of topics.
+**Navigation**
+Use the Legal Codes to navigate the document:
 
-- **Quick Start Guide**
+***Desktop***
+Press CTRL+F and type in any of the codes (0.0 will bring you back here).
+
+***Mobile***
+Just scroll until you get to where you need to.
+
+- **0.1**	[**Quick Start Guide**](https://drive.proton.me/urls/5XPTKTH9EW#NCVC9UatiVuf)
     - 5 quick ways to begin resisting
-- **Introduction**
+- **0.2**	[**Introduction**](https://drive.proton.me/urls/408XK1YGM0#E6rb7p7PkMtl)
     - The purpose of this document
-- **Urgent Items**
+- **0.3**	[**Urgent Items**](https://drive.proton.me/urls/AZTYB821RW#X7xwRIuYsa99)
     - Time sensitive or critical items
-- **Updates**
+- **0.4**	**Updates**
     - Updates are posted here so you know where the document has been edited.
-- **Donate Now (Not to me)**
+- **0.5**	**Donate Now (Not to me)**
     - Recommendations to donate to key ideas.
 - **Section 1** 	**Protest**
-    - 1.1		-		Attend Protests
-    - 1.2		-		Protest Dates
-    - 1.3		-		Sick Outs
-    - 1.4		-		Civil Disobedience
-    - 1.5		-		Bring Friends
-    - 1.6		-		Universal Messaging
-    - 1.7		-		Join a Union
-    - 1.8		-		Do Not Be Silent
-    - 1.9		-		Accept Your Role
-    - 1.10		-		Make Signs
+    - 1.1		-	Attend Protests
+    - 1.2		-	Protest Dates
+    - 1.3		-	Sick Outs
+    - 1.4		-	Civil Disobedience
+    - 1.5		-	Bring Friends
+    - 1.6		-	Universal Messaging
+    - 1.7		-	Join a Union
+    - 1.8		-	Do Not Be Silent
+    - 1.9		-	Accept Your Role
+    - 1.10		-	Make Signs
 - **Section 2** 	**Awareness**
-    - 2.1		-		Share & Export / Download
-    - 2.2		-		Resist Bot / 5Calls
-    - 2.3		-		Join Groups
-    - 2.4		-		Staying Updated
+    - 2.1		-	Share & Export
+    - 2.2		-	Resist Bot / 5Calls
+    - 2.3		-	Join Groups
+    - 2.4		-	Staying Updated
         - POTUS Tracker
-    - 2.5		-		What is Happening?
-    - 2.6 		-		National Health
+    - 2.5		-	What is Happening?
+    - 2.6 		-	National Health
 - **Section 3**	**Recruitment**
-    - 3.1		-		Recruit
-    - 3.2		-		Debating MAGA
-    - 3.3		-		Make MAGA Feel
+    - 3.1		-	Recruit
+    - 3.2		-	Debating MAGA
+    - 3.3		-	Make MAGA Feel
+    - 3.4		-	Subscribe
+    - 3.5		-	Unsubscribe
 - **Section 4**	**Limit Spending**
-    - 4.1		-		Open Secrets / Goods Unite Us
-    - 4.2		-		S.A.V.E.
-    - 4.3		-		Move Your Money
-    - 4.4		-		Cash is King
-    - 4.5		-		Boycotts
-    - 4.6		-		Boycott Tesla
-    - 4.7		-		WaPo
-    - 4.8		-		Buycotts
-    - 4.9		-		Tithing
-    - 4.10		-		Holidays
-    - 4.11		-		Fast Food
-    - 4.12		-		Streaming Platforms
-    - 4.13		-		Sports
+    - 4.1		-	Open Secrets / GUU
+    - 4.2		-	S.A.V.E.
+    - 4.3		-	Move Your Money
+    - 4.4		-	Cash is King
+    - 4.5		-	Boycotts
+    - 4.6		-	Boycott Tesla
+    - 4.7		-	WaPo
+    - 4.8		-	Buycotts
+    - 4.9		-	Tithing
+    - 4.10		-	Holidays
+    - 4.11		-	Fast Food
+    - 4.12		-	Streaming Platforms
+    - 4.13		-	Sports
+    - 4.14		-	HVAC, Plumbers, Electricians, etc...
 - **Section 5**	**Take Action**
-    - 5.1		-		Election Truth Alliance
-    - 5.2		-		Special Elections
-    - 5.3		-		General Strike
-    - 5.4		-		Whistleblowing
-    - 5.5		-		Red Cards
-    - 5.6		-		Identification
+    - 5.1		-	Election Truth Alliance
+    - 5.2		-	Special Elections
+    - 5.3		-	General Strike
+    - 5.4		-	Whistleblowing
+    - 5.5		-	Red Cards
+    - 5.6		-	Identification
         - The SAVE Act
-    - 5.7		-		4b Movement
-    - 5.8		-		Town Halls
-    - 5.9		-		VOTE!!!
-    - 5.10		-		Run for Office
-    - 5.11		-		Poll Workers
-    - 5.12		-		Lawsuits
-    - 5.13		-		Taxes
-    - 5.14		-		Option 365
-    - 5.15		-		USPS
-    - 5.16		-		Quiet Quitting
-    - 5.17		-		Malicious Compliance
-    - 5.18		-		
+    - 5.7		-	4b Movement
+    - 5.8		-	Town Halls
+    - 5.9		-	VOTE!!!
+    - 5.10		-	Run for Office
+    - 5.11		-	Poll Workers
+    - 5.12		-	Lawsuits
+    - 5.13		-	Taxes
+    - 5.14		-	Option 365
+    - 5.15		-	USPS
+    - 5.16		-	Quiet Quitting
+    - 5.17		-	Malicious Compliance
+    - 5.18		-	Vaccinations
+    - 5.19		-	Post-it Protest
+    - 5.20		-	Privacy Act
+    - 5.21		-	DoEd Form
+    - 5.22		-	Reply All
+    - 5.23		-	Pledge of Allegiance
+    - 5.24		-	Sticker Protest
 - **Section 6**	**Build Community**
+    - 6.1		-	Offline Plans
+    - 6.2		-	Shop Local
+    - 6.3		-	Stock Up
+    - 6.4		-	Plant Food
 - **Section 7**	**Eliminating Big Tech**
+    - Why Remove Big Tech?
+    - 7.1		-	DuckDuckGo
+    - 7.2		-	LibreWolf
+    - 7.3		-	Orion Web Browser
+    - 7.4		-	Use Ad Blockers
+    - 7.5		-	Ad Nauseam
+    - 7.6		-	Tor
+    - 7.7		-	Facebook / Instagram
+        - The Benefits of Deleting Facebook
+        - Doomscrolling
+        - Meta's Brain Hacks
+        - Final Plea
+    - 7.8		-	Delete Twitter
+    - 7.9		-	Truth Social
+    - 7.10		-	Quit Amazon
+    - 7.11		-	Other Social Media
 - **Section 8**	**Big Tech Alternatives**
+    - 8.1		-	Signal Messenger
+    - 8.2		-	BlueSky
+    - 8.3		-	Mastodon
+    - 8.4		-	Reddit
+    - 8.5		-	Proton
+    - 8.6		-	Tutamail
+    - 8.7		-	Tech Alternatives
+    - 8.8		-	Reading Books
+    - 8.9		-	Go European
+    - 8.10		-	Made in Canada
 - **Section 9**	**Build Resilience**
+    - 9.1		-	Protect Your Peace
+        - B.R.I.M.
+    - 9.2		-	Unsecured Places
+    - 9.3		-	NC, KC, LC, Gray Rock
+    - 9.4		-	The Joy of Life
+    - 9.5		-	Learn Real History
+    - 9.6		-	S.E.R.E.
+    - 9.7		-	Flood the Zone
 - **Section 10**	**Untested Resistance Ideas**
-- **Coup Evidence**
-- **Useful Links**
-- **Final Plea**
+    - 10.1		-	School Shooting Protests
+    - 10.2		-	General Strike Redux
+    - 10.3		-	Junk Protest
+    - 10.4		-	Sue the GOP
+    - 10.5		-	End Starlink
+    - 10.6		-	The Value of Money
+    - 10.7		-	QR Flag
+- **Section 11 Coup Evidence**
+- **Section 12 Useful Links**
+- **Section 15 Final Plea**
+    - If all else fails, here's a song.
  
-
-
-
-
-
-
-
-
 
 ***
 
-# **Quick Start Guide**
+# **0.1 Quick Start Guide**
 
 ## **Step 1 — Learn how to Resist**
 
@@ -131,25 +184,25 @@ Severely limit your spending. Stop spending money as much as possible.
 ## 
 **Step 5 — Diminish Big Tech in Your Life**
 
-  [Signal ](https://signal.org/ "https://signal.org/")/ [Element](https://element.io/ "https://element.io/") Phone calls & Messaging Free
-  [BlueSky](https://bsky.app/ "https://bsky.app/") Twitter replacement Free
-  [New Pipe](https://newpipe.net/ "https://newpipe.net/") / [PeerTube](https://peertube.tv/ "https://peertube.tv/") Youtube Free
-  [Pixelfed](https://pixelfed.org/ "https://pixelfed.org/") / [Flashes](https://bsky.app/profile/did:plc:24kqkpfy6z7avtgu3qg57vvl "https://bsky.app/profile/did:plc:24kqkpfy6z7avtgu3qg57vvl") Instagram Free / $
-  [LibreWolf](https://librewolf.net/ "https://librewolf.net/") Web Browser with Ad Blocking Free
-  [LibreOffice](https://www.libreoffice.org/ "https://www.libreoffice.org/") Office 365 Free
-  [CryptPad](https://cryptpad.fr/ "https://cryptpad.fr/") / [Etherpad](https://etherpad.org/ "https://etherpad.org/") Google Docs Free / $
-  [Tutamail](https://mail.tutanota.com/login "https://mail.tutanota.com/login") E-mail replacement Free / $
-  [GIMP](https://www.gimp.org/downloads/ "https://www.gimp.org/downloads/") Photoshop Free
-  [Immich](https://immich.app/ "https://immich.app/") / [Cryptee](https://crypt.ee/ "https://crypt.ee/") Google Photos / iCloud Free / $
-  [NextCloud](https://nextcloud.com/ "https://nextcloud.com/") Google Cloud Free / $
-  [Jitsi Meet](https://meet.jit.si/?rCounter=1 "https://meet.jit.si/?rCounter=1") Google Meets / MS Teams / Zoom Free / $
+**  [Signal ](https://signal.org/ "https://signal.org/")**/ [**Element**](https://element.io/ "https://element.io/") Phone calls & Messaging Free
+ ** [BlueSky](https://bsky.app/ "https://bsky.app/")** Twitter replacement Free
+  [**New Pipe**](https://newpipe.net/ "https://newpipe.net/") / [**PeerTube**](https://peertube.tv/ "https://peertube.tv/") Youtube Free
+ ** [Pixelfed](https://pixelfed.org/ "https://pixelfed.org/")** / [**Flashes**](https://bsky.app/profile/did:plc:24kqkpfy6z7avtgu3qg57vvl "https://bsky.app/profile/did:plc:24kqkpfy6z7avtgu3qg57vvl") Instagram Free / $
+  [**LibreWolf**](https://librewolf.net/ "https://librewolf.net/") Web Browser with Ad Blocking Free
+  [**LibreOffice**](https://www.libreoffice.org/ "https://www.libreoffice.org/") Office 365 Free
+  [**CryptPad**](https://cryptpad.fr/ "https://cryptpad.fr/") / [**Etherpad**](https://etherpad.org/ "https://etherpad.org/") Google Docs Free / $
+  [**Tutamail**](https://mail.tutanota.com/login "https://mail.tutanota.com/login") E-mail replacement Free / $
+  [**GIMP**](https://www.gimp.org/downloads/ "https://www.gimp.org/downloads/") Photoshop Free
+ ** [Immich](https://immich.app/ "https://immich.app/")** / [**Cryptee**](https://crypt.ee/ "https://crypt.ee/") Google Photos / iCloud Free / $
+  [**NextCloud**](https://nextcloud.com/ "https://nextcloud.com/") Google Cloud Free / $
+  [**Jitsi Meet**](https://meet.jit.si/?rCounter=1 "https://meet.jit.si/?rCounter=1") Google Meets / MS Teams / Zoom Free / $
 
 # 
 
 ***
 
 # 
-**Introduction**
+**0.2 – Introduction**
 
 **What is this document?**
 It is a collection of options, ideas, and strategies on how to resist the 2025 coup.
@@ -165,7 +218,7 @@ The political agenda is to resist the coup, big tech, mega-corporations, fascism
 **Why is all of this happening?**
 There is not a single reason, but a confluence of reasons:
 
-- Billionaires want [their own city-states](https://theplotagainstamerica.com/ "https://theplotagainstamerica.com/"), and [they do not want democracy](https://www.youtube.com/watch?v=5RpPTRcz1no&ab_channel=BlondePolitics%7CTheSillySerious "https://www.youtube.com/watch?v=5RpPTRcz1no&ab_channel=BlondePolitics%7CTheSillySerious").
+- Billionaires want [**their own city-states**](https://theplotagainstamerica.com/ "https://theplotagainstamerica.com/"), and [**they do not want democracy**](https://www.youtube.com/watch?v=5RpPTRcz1no&ab_channel=BlondePolitics%7CTheSillySerious "https://www.youtube.com/watch?v=5RpPTRcz1no&ab_channel=BlondePolitics%7CTheSillySerious").
 - Extremist Christians do not like democracy, they like authoritarians.
 - China and Russia dislike US hegemony, NATO, and post WWII world order.
 - White supremacists want an all-white nation.
@@ -183,7 +236,7 @@ DT and EM want Greenland, Canada, Ukraine’s resources, and the Panama Canal be
 ***
 
 # 
-**URGENT ITEMS**
+**0.3 – URGENT ITEMS**
 
 1. Watch this [**41 minute video**](https://www.youtube.com/watch?v=Ru8SHK7idxs&t=31s&ab_channel=ElectionTruthAlliance "https://www.youtube.com/watch?v=Ru8SHK7idxs&t=31s&ab_channel=ElectionTruthAlliance") ([**9 minute**](https://www.youtube.com/watch?v=xyFj3pU7WI0&t=173s&ab_channel=DireTalks "https://www.youtube.com/watch?v=xyFj3pU7WI0&t=173s&ab_channel=DireTalks") summary) then [**donate here**](https://electiontruthalliance.org/donate "https://electiontruthalliance.org/donate").
 2. Look at the [**Election Truth Alliance**](https://electiontruthalliance.org/ "https://electiontruthalliance.org/") website.
@@ -196,28 +249,36 @@ DT and EM want Greenland, Canada, Ukraine’s resources, and the Panama Canal be
 9. The [**3.5% rule**](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world") is why you need to attend protests regularly and [**general strike**](https://generalstrikeus.com/ "https://generalstrikeus.com/").
 10. [**Request your personal data**](https://jamieraskin.com/doge-privacy-act-requests/ "https://jamieraskin.com/doge-privacy-act-requests/") from DOGE.
  
-# **UPDATES: Edition 6 — 7**
+# **0.4 – UPDATES: Edition 7 — 8**
 
-**Version 6 — Went live 3-16-2025**
- **Version 6 — 7 Update Page will be deleted 3-23-2025**
+**Version 8 — Goes live 3-23-2025**
 
-1. **3/15 Migrated from Google Docs to Crypt Pad (this took 16 hours)**
-2.  
-**** 
-# **UPDATES: Edition 7 — 8**
+1. 3/15 	Migrated from Google Docs to Crypt Pad (this took 16 hours)
+2. 3/16 	Checked all links, removed bad links, found better links
+3. 3/16 	Expanded various sections — too many to list with the migration.
+4. 3/17		Created legal code numbering system due to lack of TOC options in Proton
+5. 3/17		Added **3.4**: Subscribe - A list of verified streaming anti-MAGA folks
+6. 3/17		Added **4.14**: HVAC, Plumbers, Electricians, etc...
+7. 3/17		Added **3.5**: Unsubscribe
+8. 3/17		Added **0.0** and CTRL+F note in the Table of Contents
+9. 3/17		Added Copy & Printable QR Code for this document in **1.10**
+10. 3/18		Taking a break - It takes a lot to write and maintain this doc. I'll begin updates again this weekend.
+11. 3/20		Added **S13 Educational Materials**
+12. 3/20		Added legal code to all sections, Intro, TOC, Updates, etc...
+13. 3/20		Added [**Pete Buttigieg**](https://www.youtube.com/watch?v=bx62pk3kwf8&t=106s) in **3.2** explaining how the opposite of DEI is uniformity, inequality, and exclusion.
+14. 3/20		Added the following suggestions from Reddit users:
+                1. **1.10**: Use both sides of protests signs you make!
+                2. **2.2**: Added a [**github Call Guide**](https://github.com/RaiseRuntimeError/call-to-action) someone else is making.
+                3. **2.3**: Added this [**Movement Building 101](https://docs.google.com/spreadsheets/d/1IbI2KEaN09j1WIsEMWQqBfbWJv0jPN04WteFX6H79Eg/edit?usp=drivesdk)** someone else is making.
+                4. **4.7**: Added Substack support for WaPo journalists.
+15. 3/21		Added the reddit post for item 5 in 0.3 to **Section 15**.
+16. 3/21		Removed **5.20 - Spam DOGE** so other publicans can link to the list (a reasonable request).
+17. 3/21		
 
-**Version 7 — Goes live 3-23-2025**
- **Version 6 — 7 Update Page will be deleted 3-30-2025**
-
-1. 3/16 Posted Cryptpad link to old google doc file.
-2. 3/16 Checked all links, removed bad links, found better links
-3. 3/16 Expanded various sections — too many to list with the migration.
-4.  
- 
 ***
 
 # 
-**Donate Now**
+**0.5 – Donate Now**
 
 Donate to the people who are helping organize and save us. Undeserving politicians do not deserve our time or resources. Deserving politicians do (there are very few of these).
 
@@ -225,14 +286,14 @@ Donate to the people who are helping organize and save us. Undeserving politicia
   Watch this [**41 minute video**](https://www.youtube.com/watch?v=Ru8SHK7idxs&t=31s&ab_channel=ElectionTruthAlliance "https://www.youtube.com/watch?v=Ru8SHK7idxs&t=31s&ab_channel=ElectionTruthAlliance") ([**9 minute**](https://www.youtube.com/watch?v=xyFj3pU7WI0&t=173s&ab_channel=DireTalks "https://www.youtube.com/watch?v=xyFj3pU7WI0&t=173s&ab_channel=DireTalks") summary) then [**donate here**](https://electiontruthalliance.org/donate "https://electiontruthalliance.org/donate").
  
 2. **What You Can Do Now Moderate Priority**
-  **This website will become a version of this document. I cannot do that, so** [please consider donating](http://www.WhatYouCanDoNow.org "http://www.WhatYouCanDoNow.org")**.**
+This website will become a version of this document. I cannot do that, so** [please consider donating](http://www.WhatYouCanDoNow.org "http://www.WhatYouCanDoNow.org").**
 **** 
 
 ***
 
 # **S1 — Protest**
 
-## **Option 1 — Attend Protests**
+## **Option 1.1 — Attend Protests**
 
 Attend protests! If we do not attend protests now, it will likely become illegal.
 
@@ -242,15 +303,15 @@ Attend protests! If we do not attend protests now, it will likely become illegal
 
 **Protests are Working**
 
-[**3/1 - Vance’s Ski Trip](https://www.reddit.com/r/50501/comments/1j19law/protesters_disrupt_vances_ski_trip_this_weekend_a/ "https://www.reddit.com/r/50501/comments/1j19law/protesters_disrupt_vances_ski_trip_this_weekend_a/") [Tesla Protests](https://www.forbes.com/sites/conormurray/2025/03/14/tesla-boycotts-turn-violent-reports-of-vandalism-and-worse-timeline/ "https://www.forbes.com/sites/conormurray/2025/03/14/tesla-boycotts-turn-violent-reports-of-vandalism-and-worse-timeline/") [GOP Town Halls](https://www.nbcnews.com/politics/congress/house-republicans-town-halls-blowback-trump-cuts-rcna193766 "https://www.nbcnews.com/politics/congress/house-republicans-town-halls-blowback-trump-cuts-rcna193766")
+[**3/1 - Vance’s Ski Trip](https://www.reddit.com/r/50501/comments/1j19law/protesters_disrupt_vances_ski_trip_this_weekend_a/ "https://www.reddit.com/r/50501/comments/1j19law/protesters_disrupt_vances_ski_trip_this_weekend_a/")** 		[**Tesla Protests](https://www.forbes.com/sites/conormurray/2025/03/14/tesla-boycotts-turn-violent-reports-of-vandalism-and-worse-timeline/ "https://www.forbes.com/sites/conormurray/2025/03/14/tesla-boycotts-turn-violent-reports-of-vandalism-and-worse-timeline/")** 			[**GOP Town Halls**](https://www.nbcnews.com/politics/congress/house-republicans-town-halls-blowback-trump-cuts-rcna193766 "https://www.nbcnews.com/politics/congress/house-republicans-town-halls-blowback-trump-cuts-rcna193766")
 
-[**Trump Tower Protest](https://www.youtube.com/watch?v=1Ehnjs9q8RM "https://www.youtube.com/watch?v=1Ehnjs9q8RM") [3/14 - DC Protest](https://www.youtube.com/watch?v=t_ovxlUm9TM "https://www.youtube.com/watch?v=t_ovxlUm9TM")** [**Protests in US**](https://www.youtube.com/shorts/O3lyyCOm9D0 "https://www.youtube.com/shorts/O3lyyCOm9D0")
+[**Trump Tower Protest](https://www.youtube.com/watch?v=1Ehnjs9q8RM "https://www.youtube.com/watch?v=1Ehnjs9q8RM")** 		[**3/14 - DC Protest**](https://www.youtube.com/watch?v=t_ovxlUm9TM "https://www.youtube.com/watch?v=t_ovxlUm9TM") 		[**Protests in US**](https://www.youtube.com/shorts/O3lyyCOm9D0 "https://www.youtube.com/shorts/O3lyyCOm9D0")
 
 Use DuckDuckGo to find footage of protests for motivation. The media isn’t covering the protests as they should, but the footage is out there.
 
 ***
 
-## **Option 2 — Protest Dates**
+## **Option 1.2 — Protest Dates**
 
 **Reliable Sites** 				**Description**
 
@@ -261,6 +322,7 @@ Use DuckDuckGo to find footage of protests for motivation. The media isn’t cov
  
 
 **Useful but Unreliable** 	**Description**
+
 [**No Voice Unheard**](https://www.nvunheard.org/services-2 "https://www.nvunheard.org/services-2") 		List of Grassroots organizations (bad links)
 [**Protest.net**](http://Protest.net "http://Protest.net") 					Cool in theory, but has issues
 
@@ -269,33 +331,33 @@ However, do DuckDuckGo searches for protests in your area to connect with new gr
 
 ***
 
-## **Option 3 — Sick Outs**
+## **Option 1.3 — Sick Outs**
 
 If enough people call in sick simultaneously, the effect is a work stoppage. Sick outs can occur using PTO, vacation time, personal days, sick days, etc...
 
 ***
 
-## **Option 4 — Civil Disobedience**
+## **Option 1.4 — Civil Disobedience**
 
 The CIA made a simple short guide for [**conducting civil disobedience**](https://www.gutenberg.org/ebooks/26184 "https://www.gutenberg.org/ebooks/26184").
 
 Civil disobedience can sometimes be petty. But to be effective, it must confer a message or ideal. Here are recent examples:
 
-[**US Army Chorus**](https://www.youtube.com/watch?v=pIQh_5dZUwI "https://www.youtube.com/watch?v=pIQh_5dZUwI") [**Yosemite National Park**](https://www.reddit.com/r/interestingasfuck/comments/1iwdq3x/american_flag_flown_upside_down_represented_as_a/ "https://www.reddit.com/r/interestingasfuck/comments/1iwdq3x/american_flag_flown_upside_down_represented_as_a/") [**Zion National Park**](https://www.reddit.com/r/pics/comments/1jafnh1/zion_standing_up_today/ "https://www.reddit.com/r/pics/comments/1jafnh1/zion_standing_up_today/")
+[**US Army Chorus**](https://www.youtube.com/watch?v=pIQh_5dZUwI "https://www.youtube.com/watch?v=pIQh_5dZUwI") 			[**Yosemite National Park**](https://www.reddit.com/r/interestingasfuck/comments/1iwdq3x/american_flag_flown_upside_down_represented_as_a/ "https://www.reddit.com/r/interestingasfuck/comments/1iwdq3x/american_flag_flown_upside_down_represented_as_a/") 			[**Zion National Park**](https://www.reddit.com/r/pics/comments/1jafnh1/zion_standing_up_today/ "https://www.reddit.com/r/pics/comments/1jafnh1/zion_standing_up_today/")
 
-[**DT licking EM’s Toes**](https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s "https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s") [**Anonymous Disobedience**](https://www.reddit.com/r/50501/comments/1jbvrg4/us_what_happened_to_twitter_and_snapchat_is_not/ "https://www.reddit.com/r/50501/comments/1jbvrg4/us_what_happened_to_twitter_and_snapchat_is_not/") [**Modern Examples**](https://www.yourdictionary.com/articles/civil-disobedience-examples "https://www.yourdictionary.com/articles/civil-disobedience-examples")
+[**DT licking EM’s Toes**](https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s "https://bsky.app/profile/marisakabas.bsky.social/post/3liwlwvvq6k2s") 	[**Anonymous Disobedience**](https://www.reddit.com/r/50501/comments/1jbvrg4/us_what_happened_to_twitter_and_snapchat_is_not/ "https://www.reddit.com/r/50501/comments/1jbvrg4/us_what_happened_to_twitter_and_snapchat_is_not/") 		[**Modern Examples**](https://www.yourdictionary.com/articles/civil-disobedience-examples "https://www.yourdictionary.com/articles/civil-disobedience-examples")
 
 Civil Disobedience is sometimes petty, sometimes serious, and sometimes humorous. But it always makes a point.
 
 ***
 
-## **Option 5 — Bring Friends**
+## **Option 1.5 — Bring Friends**
 
 Bring one or more friends with you to protests. Split costs to make it more affordable. Cover costs for people who can’t split costs if you can.
 
 ***
 
-## **Option 6 — Universal Messaging**
+## **Option 1.6 — Universal Messaging**
 
 **They Lied to Us!**
 Make “They Lied to Us!” signs and shirts.
@@ -311,25 +373,25 @@ It feels good, but pushes people away. Right now, we need anyone and everyone wh
 
 ***
 
-## **Option 7 — Join a Union**
+## **Option 1.7 — Join a Union**
 
 Join a union if you can. It is an instant community to help fight for your rights.
 
 ***
 
-## **Option 8 — Do Not Be Silent**
+## **Option 1.8 — Do Not Be Silent**
 
 Silence empowers the oppressor. Silence isn’t voice. Silence is complicity.
 
 ***
 
-## **Option 9 — Accept Your Role**
+## **Option 1.9 — Accept Your Role**
 
 We are the last line of defense. No one is going to save us but us. Internalize this mantra. Until democrats do what the people want, they won’t save us.
 
 ***
 
-## **Option 10 — Make Signs**
+## **Option 1.10 — Make Signs**
 
 Here are tips for creating effective protest signs:
 
@@ -345,31 +407,34 @@ Here are tips for creating effective protest signs:
 10. Pictures should obviously associate with your message
 11. Use symbols that associate with your movement or goals
 12. Make multiple signs, and give them to signless people
-13. Use universal messaging denoted in **S1: 6**
-14. Print this QR code and put it on your sign:
- 
-**<Insert QR Code when complete>**
+13. Use universal messaging denoted in **1.6**
+14. Use ***both the front and back*** of your sign / poster.
+15. Print this QR code and put it on your sign:
+
+
 
 ***
  
 # **S2 — Awareness**
 
-## **Option 1 — Share & Export**
+## **Option 2.1 — Share & Export**
 
 Share this document. Export (download) this document.
 Updates come out every Sunday. Share the update with your network.
 
 ***
 
-## **Option 2 — Resist Bot / 5Calls**
+## **Option 2.2 — Resist Bot / 5Calls**
 
 Use [**Resist Bot**](https://resist.bot/ "https://resist.bot/") and [**5Calls**](https://5calls.org/ "https://5calls.org/") to contact representatives everyday.
 Use these to tell elected leaders when they do bad things. 
 Use these to tell elected leaders when they do good things, too.
 
+For a very in-depth approach to these kinds of calls, check out [**this github Call Guide**](https://github.com/RaiseRuntimeError/call-to-action) written by someone else.
+
 ***
 
-## **Option 3 — Join Groups**
+## **Option 2.3 — Join Groups**
 
 You have a choice:
 
@@ -395,9 +460,14 @@ There are many groups you can join that are not listed. You do not have to join 
 
 Use the [**Activist Handbook**](https://activisthandbook.org/organising/protest "https://activisthandbook.org/organising/protest") to get started.
 
+The [**Movement Building 101**](https://docs.google.com/spreadsheets/d/1IbI2KEaN09j1WIsEMWQqBfbWJv0jPN04WteFX6H79Eg/edit?usp=drivesdk) spreadsheet is also under development from a different person - check it out.
+
+**Maximize Numbers**
+When organizing your own group, maximize your group's effectiveness by joining larger schedule protests. It is the massive collective that can implement grassroots changes.
+
 ***
 
-## **Option 4 — Staying Updated**
+## **Option 2.4 — Staying Updated**
 
 Here are ways to remain up-to-date:
 
@@ -415,7 +485,7 @@ Do not use Truth Social – every interaction, view, and such legitimizes this p
 
 ***
  
-## **Option 5 — What is Happening?**
+## **Option 2.5 — What is Happening?**
 
 To understand what is happening, review the following materials:
 
@@ -430,7 +500,7 @@ It is dystopian, to say the least. [**Anonymous claims election interference**](
 
 ***
 
-## **Option 6 — National Health**
+## **Option 2.6 — National Health**
 
 The [**American Medical Association**](https://www.youtube.com/@americanmedicalassociation "https://www.youtube.com/@americanmedicalassociation") is making updates via their YouTube channel because the CDC is being muzzled and controlled.
 
@@ -441,7 +511,7 @@ Subscribe to their channel.
 # **S3 — Recruitment**
 
 ## 
-**Option 1 — Recruit**
+**Option 3.1 — Recruit**
 
 ### **Recruiting Trusted People**
 
@@ -481,6 +551,9 @@ Use the following tips for recruiting opposition:
 
 The goal is to defeat authoritarianism, and we need all the help we can get. We can tackle individual differences later.
 
+**Simple Speech**
+If you are indeed recruiting a full on MAGA, or trying to, use simple speech and ideas. Yes, this sounds insulting, but there is scientific evidence to back it up. Pete Buttigieg [**gives an example here**](https://www.youtube.com/watch?v=bx62pk3kwf8&t=106s). He breaks DEI down in a very relatable way.
+
 ### **Racism & Recruiting**
 
 I believe calling people “Racist” is unhelpful when making progress toward a non-racist world. Every person exists on the [**racism spectrum**](https://stuartcenter.org/resource/racism-scale "https://stuartcenter.org/resource/racism-scale") (or racism scale).
@@ -495,7 +568,7 @@ Know thyself, and be mindful.
 
 ***
 
-## **Option 2 — Debating MAGA**
+## **Option 3.2 — Debating MAGA**
 
 **In-Person Debates**
 **** Bots, trolls, AI, infotainment, and bad actors have made internet debate useless if your goal is progress. Therefore, in-person debates are more useful.
@@ -504,6 +577,7 @@ When in an in-person debate with MAGA, understand that most people change their 
 
 1. [**This article**](https://www.psychologytoday.com/us/blog/good-thinking/201602/how-get-people-change-their-minds "https://www.psychologytoday.com/us/blog/good-thinking/201602/how-get-people-change-their-minds") has excellent tips.
 2. [**This article**](https://time.com/6224300/how-to-change-someones-mind/ "https://time.com/6224300/how-to-change-someones-mind/") is also useful.
+3. [**Watch Pete Buttigieg**](https://www.youtube.com/watch?v=bx62pk3kwf8&t=106s) explain how the opposite of DEI is Uniformity, Inequality, and Exclusion.
 
 There are a million articles on changing someone’s mind, and they all give different, but usually reasonable, advice. Just know that showing up prepared to a debate, even an unexpected one, increases your chances of success.
 
@@ -526,7 +600,7 @@ Give a person a sentence or two at most. Otherwise, use B.R.I.M.:
 
 ***
 
-## **Option 3 — Make MAGA Feel**
+## **Option 3.3 — Make MAGA Feel**
 
 MAGA hates consequences, but consequences can make MAGA feel:
 
@@ -552,20 +626,43 @@ If your church is MAGA, find a new church.
 
 **Helping MAGA**
 If you regularly help a MAGA, stop. Whatever the help, just stop. Let MAGA rely upon itself, and stop draining you and your resources.
-**** 
+
+***
+
+## **Option 3.4 — Subscribe**
+
+[**Here is a verified list**](https://airtable.com/appjR7HCkVYNu9ZZS/shrZ9cqMyi8fAEb4y/tblrqBrYbbyKYJDxN) of streamers, podcasts, and other online groups that do not support Donald Trump.
+
+I am putting this under recruitment because if we all follow each of these, their online numbers will grow and our voice will be amplified.
+
+This is especially important to do since the traditional media is sanewashing DT and ignoring protests.
+
+***
+
+## **Option 3.5 — Unsubscribe**
+
+For any social media you keep, even though this document suggests removing it from your life, unsubscribe from the following people, channels, or groups:
+
+- People who support DT / MAGA
+- People who avoid the discussion
+
+If a person has a channel that talks about building bird houses, and there is no cause for politics discussion, you don't have to unsubscribe from them, but you can. The goal is to challenge authoritarianism. If a person is not calling out the regime for what it is, they likely don't deserve support.
+
+I know this seems ridiculous. But silence emboldens the oppressor. There is no reason to support silent individuals. They are the individuals who will watch you get dragged away. They are the individuals who will turn you in to save themselves. They are the individuals who will rationalize heinous acts against people to keep their job.
+
 ***
 
 # **S4 — Limit Spending**
 
 ## 
-**Option 1 — Open Secrets & GUU**
+**Option 4.1 — Open Secrets & GUU**
 
 Use the following links to look up corporation political donations before making purchases:
 
 1. The** [Goods Unite Us](https://www.goodsuniteus.com/ "https://www.goodsuniteus.com/")** app 		(Free)
 2. [**www.OpenSecrets.org](http://www.OpenSecrets.org "http://www.OpenSecrets.org")** 		(Free)
 
-## **Option 2 — S.A.V.E.**
+## **Option 4.2 — S.A.V.E.**
 
 Trim your expenses with SAVE:
 
@@ -597,7 +694,7 @@ Some of this is easier said than done, but try your best. If your spending grind
 
 ***
 
-## **Option 3 — Move Your Money**
+## **Option 4.3 — Move Your Money**
 
 **Credit Unions**
 Credit Unions are owned by people, and not billionaires. Moving your money diminishes the profits billionaires can make by loaning out your money.
@@ -607,17 +704,17 @@ Local banks are owned by local people, and not billionaires. They are an excelle
 
 ***
 
-## **Option 4 — Cash is King**
+## **Option 4.4 — Cash is King**
 
 Use cash and pre-paid debit cards. This makes your purchases un-trackable, and thus un-exploitable.
 
 ***
 
-## **Option 5 — Boycotts**
+## **Option 4.5 — Boycotts**
 
 ### Permanent Boycotts
 
-[**Tesla**](https://www.youtube.com/watch?v=L-Imw_s1aaI "https://www.youtube.com/watch?v=L-Imw_s1aaI") [**Google**](https://www.businessinsider.com/google-ends-diversity-hiring-goals-reviews-dei-programs-2025-2?op=1 "https://www.businessinsider.com/google-ends-diversity-hiring-goals-reviews-dei-programs-2025-2?op=1") [**Target**](https://www.msn.com/en-us/money/companies/exactly-how-much-money-has-target-lost-since-the-boycott-its-profits-have-definitely-dropped/ar-AA1AjsuT "https://www.msn.com/en-us/money/companies/exactly-how-much-money-has-target-lost-since-the-boycott-its-profits-have-definitely-dropped/ar-AA1AjsuT") [**Meta / Facebook / Amazon**](https://www.nbcnews.com/tech/social-media/meta-boycott-facebook-instagram-users-delete-accounts-policy-changes-rcna187480 "https://www.nbcnews.com/tech/social-media/meta-boycott-facebook-instagram-users-delete-accounts-policy-changes-rcna187480")
+[**Tesla**](https://www.youtube.com/watch?v=L-Imw_s1aaI "https://www.youtube.com/watch?v=L-Imw_s1aaI") 		[**Google**](https://www.businessinsider.com/google-ends-diversity-hiring-goals-reviews-dei-programs-2025-2?op=1 "https://www.businessinsider.com/google-ends-diversity-hiring-goals-reviews-dei-programs-2025-2?op=1") 		[**Target**](https://www.msn.com/en-us/money/companies/exactly-how-much-money-has-target-lost-since-the-boycott-its-profits-have-definitely-dropped/ar-AA1AjsuT "https://www.msn.com/en-us/money/companies/exactly-how-much-money-has-target-lost-since-the-boycott-its-profits-have-definitely-dropped/ar-AA1AjsuT") 		[**Meta / Facebook / Amazon**](https://www.nbcnews.com/tech/social-media/meta-boycott-facebook-instagram-users-delete-accounts-policy-changes-rcna187480 "https://www.nbcnews.com/tech/social-media/meta-boycott-facebook-instagram-users-delete-accounts-policy-changes-rcna187480")
 
 Amazon / Whole Foods McDonald’s Walmart Ford
 
@@ -648,10 +745,10 @@ Therefore, boycotting products you buy that other countries have tariffs against
 
 ***
 
-## **Option 6 — Boycott Tesla**
+## **Option 4.6 — Boycott Tesla**
 
 **Keep Boycotting Tesla – It’s working!!**
- [**Here is a video**](https://www.youtube.com/watch?v=L-Imw_s1aaI&t=1742s&ab_channel=EdwardNiedermeyer "https://www.youtube.com/watch?v=L-Imw_s1aaI&t=1742s&ab_channel=EdwardNiedermeyer") that explains the financial technicalities of boycotting Tesla. EM used [**Tesla as collateral**](https://www.theverge.com/2022/5/25/23141940/elon-musk-tesla-twitter-margin-loan-buyout-deal "https://www.theverge.com/2022/5/25/23141940/elon-musk-tesla-twitter-margin-loan-buyout-deal") when buying Twitter. Therefore, if Tesla’s stock drops too low, the creditors who loaned EM money will make margin calls against EM, causing him to lose a lot of money, and Twitter, his main propaganda machine.
+[**Here is a video**](https://www.youtube.com/watch?v=L-Imw_s1aaI "https://www.youtube.com/watch?v=L-Imw_s1aaI&t=1742s&ab_channel=EdwardNiedermeyer") that explains the financial technicalities of boycotting Tesla. EM used [**Tesla as collateral**](https://www.theverge.com/2022/5/25/23141940/elon-musk-tesla-twitter-margin-loan-buyout-deal "https://www.theverge.com/2022/5/25/23141940/elon-musk-tesla-twitter-margin-loan-buyout-deal") when buying Twitter. Therefore, if Tesla’s stock drops too low, the creditors who loaned EM money will make margin calls against EM, causing him to lose a lot of money, and Twitter, his main propaganda machine.
 
 **Stigmatize the Brand**
 **** Here is how:
@@ -663,16 +760,20 @@ Therefore, boycotting products you buy that other countries have tariffs against
 5. Like / Heart / Share / Upvote negative views and images of Tesla.
 6. Refer to Teslas as “Swasticars.”
 7. If your state requires front and back license plates, call the police when you see a Tesla or Cybertruck without a front plate.
+8. [**This video**](https://www.youtube.com/watch?v=IQJL3htsDyQ) shows Tesla technology is not as safe as other self-driving cars.
 
 ***
 
-## **Option 7 — WaPo**
+## **Option 4.7 — WaPo**
 
 Cancel your Washington Post subscription because [**JB directed**](https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section "https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section") the Washington Post to only cover right wing issues.
 
+**Supporting Journalism**
+Reach out to the journalists who you like at WaPo, and ask them *"What is the link for your substack?"* You can look it up without asking them, but this will send a message that we respect them, but not the paper they work for. Then, follow them.
+
 ***
 
-## **Option 8 — Buycotts**
+## **Option 4.8 — Buycotts**
 
 Support companies that have reasonable policies, and don’t flip flop based on election cycles:
 
@@ -684,13 +785,13 @@ Each of these companies have good policies, and pay their workers appropriately.
 
 ***
 
-## **Option 9 — Tithing**
+## **Option 4.9 — Tithing**
 
 If your religious institution supports MAGA, consider tithing elsewhere (or attending church elsewhere).
 
 ***
 
-## **Option 10 — Holidays**
+## **Option 4.10 — Holidays**
 
 Make the holidays about food, family, and friends, and less about stuff. Here are ideas on how to limit holiday expenditures:
 
@@ -702,7 +803,7 @@ Celebrate any and all holidays you want, and celebrate them with whom you want. 
 
 ***
 
-## **Option 11 — Fast Food**
+## **Option 4.11 — Fast Food**
 
 Fast Food prices are no longer wallet friendly, and most fast food chains support MAGA with political donations. Here are ways to resist:
 
@@ -720,24 +821,56 @@ Fast Food prices are no longer wallet friendly, and most fast food chains suppor
 
 ***
 
-## **Option 12 — Streaming Platforms**
+## **Option 4.12 — Streaming Platforms**
 
 Maintain 1 streaming platform at a time. This will save you money, and if enough of us do this, the platforms will lower their prices.
 
 ***
 
-## **Option 13 — Sports**
+## **Option 4.13 — Sports**
 
 If your sports team is owned by a billionaire, stop supporting that team monetarily. Boycotting US Football, US Baseball, and US Basketball would have the largest impact.
 
 I am excluding the WNBA and college sports from this suggestion... for now.
 
 ***
+
+## **Option 4.14 — HVAC, Plumbers, Electricians, etc...**
+
+Anytime you must hire people to work on your home, consider the following advice:
+
+- If they advertise on TV, don't hire them.
+- If they don't have insurance, don't hire them.
+- If they don't have a license, don't hire them.
+- If they work on commissions, don't hire them.
+
+**TV Hires**
+Companies who advertise on TV very often pay commissions, which incentivizes tradespeople to charge more money, both for themselves and also so the company can label them a top earner (which means job security). A lot of companies that advertise on TV pay commissions, so this is the first sign.
+
+**Insurance**
+If they don't have insurance, and they get hurt in your home through something that is not your fault, you can get sued.
+
+**License**
+If they are unlicensed working in your home, you can get sued if they get hurt and they will likely get in trouble, too. It is bad for everyone involved.
+
+**Commissions**
+Some companies operate on commissions even if they don't advertise on TV. So, always ask.
+
+**Best Practices**
+
+Here is a list of best practices:
+
+- Find good repair people before you have a problem.
+- Ask friends who they have used and how their experience has been.
+- If possible, get 2 or 3 estimates before settling on a repair person.
+    - Either tell none of them about your gathered estimates, or only tell the 3rd person.
+
+***
  
 # **S5 — Take Action**
 
 ## 
-**Option 1 — Election Truth Alliance**
+**Option 5.1 — Election Truth Alliance**
 
 Watch this [**41 minute video**](https://www.youtube.com/watch?v=Ru8SHK7idxs&t=31s&ab_channel=ElectionTruthAlliance "https://www.youtube.com/watch?v=Ru8SHK7idxs&t=31s&ab_channel=ElectionTruthAlliance") ([**9 minute**](https://www.youtube.com/watch?v=xyFj3pU7WI0&t=173s&ab_channel=DireTalks "https://www.youtube.com/watch?v=xyFj3pU7WI0&t=173s&ab_channel=DireTalks") summary) then [**donate here**](https://electiontruthalliance.org/donate "https://electiontruthalliance.org/donate").
 
@@ -746,7 +879,7 @@ Watch this [**41 minute video**](https://www.youtube.com/watch?v=Ru8SHK7idxs&t=3
 
 ***
 
-## **Option 2 — Special Elections**
+## **Option 5.2 — Special Elections**
 
 Several special elections are coming up that you need to support. If they win, the House of Representatives swings back to democrat control:
 
@@ -773,7 +906,7 @@ Deportations of non-voting immigrants will still be cited as evidence for why a 
 
 ***
  
-## **Option 3 — General Strike**
+## **Option 5.3 — General Strike**
 
 Sign up for the [**General Strike**](https://generalstrikeus.com/ "https://generalstrikeus.com/"), and commit to striking when 11 million people sign up.
 
@@ -784,13 +917,13 @@ The [**r/WorkReform**](https://www.reddit.com/r/WorkReform/comments/1ivpjii/less
 
 ***
 
-## **Option 4 — Whistleblowing**
+## **Option 5.4 — Whistleblowing**
 
 Democrats set up a [**Whistleblowing**](https://www.democrats.senate.gov/whistleblowers "https://www.democrats.senate.gov/whistleblowers") website. The collected information can later be used in court or as evidence of the coup.
 
 ***
 
-## **Option 5 — Red Cards**
+## **Option 5.5 — Red Cards**
 
 Learn how not to cooperate with ICE. Download, print, and review [**Red Cards**](https://www.ilrc.org/red-cards-tarjetas-rojas "https://www.ilrc.org/red-cards-tarjetas-rojas"). Here are other resources:
 
@@ -803,7 +936,7 @@ Knowing your rights can save yourself, or someone you know.
 
 ***
 
-## **Option 6 — Identification**
+## **Option 5.6 — Identification**
 
 Authoritarian regimes often require citizens to prove their citizenship, which can be difficult to do even if you are a legal citizen.
 
@@ -832,15 +965,15 @@ If you do not have a birth certificate, or one that the government will accept, 
 
 ***
 
-## **Option 7 — 4b Movement**
+## **Option 5.7 — 4b Movement**
 
-Project 2025 will remove many women’s rights, including the right to vote. The 4b Movement is recognition that men are stripping women of their rights, and treat them poorly at all levels of society. If you are a single woman, or a woman in a questionable / horrible / abusive relationship, consider joining the 4b Movement.
+[**Project 2025**](https://www.project2025.observer/) will remove many women’s rights, including the right to vote. The 4b Movement is recognition that men are stripping women of their rights, and treat them poorly at all levels of society. If you are a single woman, or a woman in a questionable / horrible / abusive relationship, consider joining the 4b Movement.
 
 The [**4b Movement Reddit page**](https://www.reddit.com/r/4bmovement/ "https://www.reddit.com/r/4bmovement/") has more information for any women who are considering joining the movement. Men should stay out of that group as it is a space for women.
 
 ***
 
-## **Option 8 — Town Halls**
+## **Option 5.8 — Town Halls**
 
 Attend GOP Town Halls, and voice your concerns.
  Attend Democratic Town Halls, and voice your concerns.
@@ -849,7 +982,7 @@ Attend GOP Town Halls, and voice your concerns.
 
 ***
 
-## **Option 9 — VOTE!!!**
+## **Option 5.9 — VOTE!!!**
 
 **People who Always Vote**
 Keep at it. But only give rides to the polls to like-minded people.
@@ -875,7 +1008,7 @@ We must force them to cheat as much as we can so forensics teams can hold them a
 
 ***
 
-## **Option 10 — Run for Office**
+## **Option 5.10 — Run for Office**
 
 We need people to run for office who stand for the people. EM is the perfect example of what happens when you have too much money. We need people who stand up to corporate interests and lobbyists.
 
@@ -883,15 +1016,17 @@ To make this work, it means everyday citizens and local businesses will need to 
 
 We need candidates who will overturn Citizens United.
 
+[**Don't run as a democrat**](https://www.nytimes.com/2025/03/20/us/politics/bernie-sanders-democrats-independents.html).
+
 ***
 
-## **Option 11 — Poll Workers**
+## **Option 5.11 — Poll Workers**
 
 Volunteer to be a poll worker. The more honest eyes there are at the polls, the more whistleblowers the country will have if things are improper.
 
 ***
 
-## **Option 12 — Lawsuits**
+## **Option 5.12 — Lawsuits**
 
 If you are capable, or have a legitimate grevience, filr lawsuits. Trump’s powers of immunity cover federal level offenses, but not civil offenses. Therefore, civil court may be a useful tool.
 
@@ -899,7 +1034,7 @@ For fired federal workers, [**this video**](https://www.youtube.com/watch?v=w_zP
 
 ***
 
-## **Option 13 — Taxes**
+## **Option 5.13 — Taxes**
 
 **Paying Taxes**
 **** If you pay taxes, and do not get refunds, like a 1099 contractor, postmark your taxes for April 15th. This denies the government your money for as long as legally possible.
@@ -912,31 +1047,31 @@ For fired federal workers, [**this video**](https://www.youtube.com/watch?v=w_zP
 
 ***
 
-## **Option 14 — Option 365**
+## **Option 5.14 — Option 365**
 
 Do 1 thing per day to resist between protests. Doing more is even better.
 
 ***
 
-## **Option 15 — USPS**
+## **Option 5.15 — USPS**
 
 Use USPS when given an option. Avoid FedEx and UPS when possible.
 
 ***
 
-## **Option 16 — Quiet Quitting**
+## **Option 5.16 — Quiet Quitting**
 
 If you work for a MAGA supporting company, start quiet quitting while you look for a new job. Also read this small pamphlet on [**Civil Disobedience**](https://www.gutenberg.org/ebooks/26184 "https://www.gutenberg.org/ebooks/26184").
 
 ***
 
-## **Option 17 — Malicious Compliance**
+## **Option 5.17 — Malicious Compliance**
 
 If you find yourself working for a MAGA supporting company, you can use malicious compliance. Also read this small pamphlet on [**Civil Disobedience**](https://www.gutenberg.org/ebooks/26184 "https://www.gutenberg.org/ebooks/26184").
 
 ***
 
-## **Option 18 — Vaccinations**
+## **Option 5.18 — Vaccinations**
 
 Get vaccinations for yourself and your kids.
 
@@ -953,7 +1088,7 @@ It is difficult to resist authoritarianism if you are sick. Get vaccinated, and 
 
 ***
 
-## **Option 19 — Post-It Protest**
+## **Option 5.19 — Post-It Protest**
 
 Write well-reasoned, short messages, legibly, on post-it notes. Leave them at gas stations, grocery stores, and on cars where people will see them. Avoid insults. Make easy-to-research good points. Examples include the following:
 
@@ -970,65 +1105,13 @@ Write well-reasoned, short messages, legibly, on post-it notes. Leave them at ga
 
 ***
 
-## **Option 20 — Spam DOGE**
-
-EM has 2 official emails:
-
-- [hr@OPM.gov](http://hr@OPM.gov "http://hr@OPM.gov")
-- [erm71@who.eop.gov](http://erm71@who.eop.gov "http://erm71@who.eop.gov")
-
-Here is the rest of the DOGE Staff:
-
-| DOGE Employee Name | DOGE Employee E-mail |
-| --- | --- |
-| Justin Aimonetti  | [Justin.W.Aimonetti@doge.eop.gov](mailto:Justin.W.Aimonetti@doge.eop.gov "mailto:Justin.W.Aimonetti@doge.eop.gov") |
-| Jacob Altik  | [Jacob.R.Altik@doge.eop.gov](mailto:Jacob.R.Altik@doge.eop.gov "mailto:Jacob.R.Altik@doge.eop.gov") |
-| Anthony Armstrong  | [Anthony.J.Armstrong@doge.eop.gov](mailto:Anthony.J.Armstrong@doge.eop.gov "mailto:Anthony.J.Armstrong@doge.eop.gov") |
-| Jennifer Balajadia  | [Jennifer.Balakadia@doge.eop.gov](http://Balakadia@doge.eop.gov "http://Balakadia@doge.eop.gov") |
-| Alexandra Beynon  | [Alexandra.T.Beynon@doge.eop.gov](mailto:Alexandra.T.Beynon@doge.eop.gov "mailto:Alexandra.T.Beynon@doge.eop.gov") |
-| Riccardo Biasini  | [Riccardo.M.Biasini@doge.eop.gov](mailto:Riccardo.M.Biasini@doge.eop.gov "mailto:Riccardo.M.Biasini@doge.eop.gov") |
-| Akash Bobba  | [Akash.N.Bobba@doge.eop.gov](mailto:Akash.N.Bobba@doge.eop.gov "mailto:Akash.N.Bobba@doge.eop.gov") |
-| Ashley Boizelle  | [Ashley.S.Boizelle@doge.eop.gov](mailto:Ashley.S.Boizelle@doge.eop.gov "mailto:Ashley.S.Boizelle@doge.eop.gov") |
-| Emily Bryant  | [Emily.L.Bryant@doge.eop.gov](mailto:Emily.L.Bryant@doge.eop.gov "mailto:Emily.L.Bryant@doge.eop.gov") |
-| James Burnham  | [James.Burnham@doge.eop.gov](mailto:James.Burnham@doge.eop.gov "mailto:James.Burnham@doge.eop.gov") |
-| Edward Coristine  | [Edward.H.Coristine@doge.eop.gov](mailto:Edward.H.Coristine@doge.eop.gov "mailto:Edward.H.Coristine@doge.eop.gov") |
-| Steven Davis  | [Steven.M.Davis@doge.eop.gov](mailto:Steven.M.Davis@doge.eop.gov "mailto:Steven.M.Davis@doge.eop.gov") |
-| Marko Elez  | [Marko.Elez@doge.eop.gov](mailto:Marko.Elez@doge.eop.gov "mailto:Marko.Elez@doge.eop.gov") |
-| Luke Ferritor  | [Luke.E.Ferritor@doge.eop.gov](mailto:Luke.E.Ferritor@doge.eop.gov "mailto:Luke.E.Ferritor@doge.eop.gov") |
-| Joshua Fox  | [Joshua.Fox@doge.eop.gov](mailto:Joshua.Fox@doge.eop.gov "mailto:Joshua.Fox@doge.eop.gov") |
-| Joshua Hanley  | Joshua.A.Hanley@doge.eop.gov |
-| Stephanie Holmes  | [Stephanie.M.Holmes2@doge.eop.gov](mailto:Stephanie.M.Holmes@doge.eop.gov "mailto:Stephanie.M.Holmes@doge.eop.gov") |
-| Gautier Killian  | [Gautier.C.Killian@doge.eop.gov](mailto:Gautier.C.Killian@doge.eop.gov "mailto:Gautier.C.Killian@doge.eop.gov") |
-| Keenan Kmiec  | [Keenan.D.Kmiec@doge.eop.gov](mailto:Keenan.D.Kmiec@doge.eop.gov "mailto:Keenan.D.Kmiec@doge.eop.gov") |
-| Nicholas Lahera  | [Nicholas.Lahera@doge.eop.gov](mailto:Nicholas.Lahera@doge.eop.gov "mailto:Nicholas.Lahera@doge.eop.gov") |
-| Kindall Lindemann  | [Kindall.M.Lindemann@doge.eop.gov](mailto:Kindall.M.Lindemann@doge.eop.gov "mailto:Kindall.M.Lindemann@doge.eop.gov") |
-| Elon Musk  | [erm17@who.eop.gov](http://erm17@who.eop.gov "http://erm17@who.eop.gov") |
-| Noah Peters  | [Noah.Peters@doge.eop.gov](mailto:Noah.Peters@doge.eop.gov "mailto:Noah.Peters@doge.eop.gov") |
-| Nikhil Rajpal  | [Nikhil.Rajpal@doge.eop.gov](mailto:Nikhil.Rajpal@doge.eop.gov "mailto:Nikhil.Rajpal@doge.eop.gov") |
-| Adam Ramada  | [Adam.Ramada@doge.eop.gov](mailto:Adam.Ramada@doge.eop.gov "mailto:Adam.Ramada@doge.eop.gov") |
-| Austin Raynor  | [Austin.L.Raynor@doge.eop.gov](mailto:Austin.L.Raynor@doge.eop.gov "mailto:Austin.L.Raynor@doge.eop.gov") |
-| Kyle Schutt  | [Kyle.L.Shutt@doge.eop.gov](mailto:Kyle.L.Shutt@doge.eop.gov "mailto:Kyle.L.Shutt@doge.eop.gov") |
-| Ethan Shaotran  | Ethan.Shaotran@doge.eop.gov |
-| Brad Smith  | [Brad.M.Smith@doge.eop.gov](mailto:Brad.M.Smith@doge.eop.gov "mailto:Brad.M.Smith@doge.eop.gov") |
-| Christopher Stanley  | [Christopher.Stanley@doge.eop.gov](mailto:Christopher.Stanley@doge.eop.gov "mailto:Christopher.Stanley@doge.eop.gov") |
-| Christopher Stanley  | [Christopher.A.Stanlet@doge.eop.gov](mailto:Christopher.A.Stanlet@doge.eop.gov "mailto:Christopher.A.Stanlet@doge.eop.gov") |
-| Jordan Wick  | [Jordan.M.Wick@doge.eop.gov](mailto:Jordan.M.Wick@doge.eop.gov "mailto:Jordan.M.Wick@doge.eop.gov") |
-| Susan Wiles  | [Susan.S.Wiles@who.eop.gov](mailto:Susan.S.Wiles@who.eop.gov "mailto:Susan.S.Wiles@who.eop.gov") |
-| Christopher Young  | [Christopher.J.Young@doge.eop.gov](mailto:Christopher.J.Young@doge.eop.gov "mailto:Christopher.J.Young@doge.eop.gov") |
-
-For the everyday user, make anonymous email accounts, and email them everyday.
-
-For programmers, do your thing!
-
-***
-
-## **Option 21 — Privacy Act**
+## **Option 5.20 — Privacy Act**
 
 File formal demands for access to your personal data that has been collected by DOGE. Jaime Raskin [**provided a form to do so here**](https://jamieraskin.com/doge-privacy-act-requests/ "https://jamieraskin.com/doge-privacy-act-requests/").
 
 ***
 
-## **Option 22 — DoEd Form**
+## **Option 5.21 — DoEd Form**
 
 Flood the Department of Education with [**forms reporting real issues** ](https://enddei.ed.gov/ "https://enddei.ed.gov/")schools face:
 
@@ -1041,7 +1124,7 @@ Flood the Department of Education with [**forms reporting real issues** ](https:
 
 ***
 
-## **Option 23 — Reply All**
+## **Option 5.22 — Reply All**
 
 Many government organizations have a Reply All feature. Anyone can “accidentally” use this feature to gum up the works.
 
@@ -1050,7 +1133,7 @@ Many government organizations have a Reply All feature. Anyone can “accidental
 
 ***
 
-## **Option 24 — Pledge of Allegiance**
+## **Option 5.23 — Pledge of Allegiance**
 
 If you are forced to say the pledge of allegiance, and don’t want to, you have 3 additional choices:
 
@@ -1060,7 +1143,7 @@ If you are forced to say the pledge of allegiance, and don’t want to, you have
 
 ***
 
-## **Option 25 — Sticker Protest**
+## **Option 5.24 — Sticker Protest**
 
 Create stickers, and post them in public on various surfaces:
 
@@ -1077,7 +1160,7 @@ Don’t vandalize anything, just find easy to clean surfaces where people will e
 # **S6 – Build Community**
 
 ## 
-**Option 1 — Offline Plans**
+**Option 6.1 — Offline Plans**
 
 Make offline plans with people. Here are reasons why:
 
@@ -1102,19 +1185,19 @@ Organize in person, commiserate in person, support one another, build a network,
 
 ***
 
-## **Option 2 — Shop Local**
+## **Option 6.2 — Shop Local**
 
 Shopping at Non-MAGA-supporting local businesses creates community.
 
 ***
 
-## **Option 3 — Stock Up**
+## **Option 6.3 — Stock Up**
 
 Stock up on non-perishable items, and do some research. If times get tough, you will be able to survive the expensive grocery bill longer if you have a cache of food. Learn how to properly store food, and buy containers for that purpose.
 
 ***
 
-## **Option 4 — Plant Food**
+## **Option 6.4 — Plant Food**
 
 Planting food saves on food costs. For people who do not have a growing space, look into container gardening. Here are some tips:
 
@@ -1174,7 +1257,7 @@ Though, quitting cold turkey gives you a lot of your time back, so that is the b
 
 ***
 
-## **Option 1 — DuckDuckGo**
+## **Option 7.1 — DuckDuckGo**
 
 [**DuckDuckGo**](https://duckduckgo.com/&search "https://duckduckgo.com/&search") is a search engine with privacy at its core. Use it instead of Google or Bing. DDG has a few useful links:
 
@@ -1188,7 +1271,7 @@ This [**DDG controversy**](https://www.knowyourmobile.com/data-privacy/the-duckd
 
 ***
 
-## **Option 2 — LibreWolf**
+## **Option 7.2 — LibreWolf**
 
 [**LibreWolf**](https://librewolf.net/ "https://librewolf.net/") is a free web browser that prioritizes privacy and ad blocking simultaneously.
 
@@ -1199,7 +1282,7 @@ LibreWolf is free, and will always be free. They still recommend using DuckDuckG
 
 ***
 
-## **Option 3 — Orion Web Browser**
+## **Option 7.3 — Orion Web Browser**
 
 The [**Orion Web Browser**](https://kagi.com/orion/ "https://kagi.com/orion/") is another browser you can use. They have a $150 lifetime fee for their plus features. It is an excellent alternative to Safari for Apple users.
 
@@ -1210,7 +1293,7 @@ Orion is specifically for MacOS and iOS.
 
 ***
 
-## **Option 4 — Use Ad Blockers**
+## **Option 7.4 — Use Ad Blockers**
 
 If you do not wish to change web browsers, consider using ad blockers. Ad blockers help you in 2 ways:
 
@@ -1227,7 +1310,7 @@ Many people use this to block ads, but the owner is MAGA. Here is an [**Open Sec
 
 ***
 
-## **Option 5 — Ad Nauseam**
+## **Option 7.5 — Ad Nauseam**
 
 If you have a little know-how, Ad Nauseam is a way to fight back against ads as opposed to just blocking them. Here are the benefits:
 
@@ -1244,7 +1327,7 @@ Because the ads are clicked, it costs advertisers money without gaining any bene
 
 ***
 
-## **Option 6 — Tor**
+## **Option 7.6 — Tor**
 
 The [**Tor web browser**](https://www.torproject.org/ "https://www.torproject.org/") it the best browser for privacy. Here are Tor’s benefits:
 
@@ -1263,7 +1346,7 @@ Tor is a highly useful web browser that can blind companies. If you don’t mind
 
 ***
 
-## **Option 7 — Facebook / Instagram**
+## **Option 7.7 — Facebook / Instagram**
 
 MZ is supporting the coup, which is why deleting your Facebook account is a good idea. People love Facebook, and the connections it offers. Most people keep it for one or more of the following reasons:
 
@@ -1370,7 +1453,7 @@ All of the above applies to Instagram as well.
 
 ***
 
-## **Option 8 — Delete Twitter**
+## **Option 7.8 — Delete Twitter**
 
 Twitter is a propaganda machine that manipulates people. Go to BlueSky – it is the perfect replacement, and has millions of users.
 
@@ -1381,7 +1464,7 @@ Abandoning Twitter de-values the platform. Since Musk used Tesla as collateral t
 
 ***
 
-## **Option 9 — Truth Social**
+## **Option 7.9 — Truth Social**
 
 Truth Social is a propaganda machine for Donald Trump. Leaving devalues the platform.
 
@@ -1389,7 +1472,7 @@ However, like it or not, Donald Trump is president, and seeing presidential stat
 
 ***
 
-## **Option 10 — Quit Amazon**
+## **Option 7.10 — Quit Amazon**
 
 Jeff Bezos is helping fund authoritarianism. Therefore, quit using Amazon for anything other than a catalog. But why do people like Amazon so much? It comes down to 3 main things:
 
@@ -1417,7 +1500,7 @@ Do we really want to allow authoritarianism to take over because we wanted free 
 
 ***
 
-## **Option 11 — Other Social Media**
+## **Option 7.11 — Other Social Media**
 
 All social media platforms come at a cost. The costs are simple to list:
 
@@ -1438,7 +1521,7 @@ Also read the About pages regarding company philosophies before joining. The nex
 # **S8 – Big Tech Alternatives**
 
 ## 
-**Option 1 — Signal Messenger**
+**Option 8.1 — Signal Messenger**
 
 [**Signal**](https://signal.org/ "https://signal.org/") makes your texts and calls private. It is free, but donations are appreciated.
 
@@ -1446,19 +1529,19 @@ Signal only works if both people have it, and it is a replacement for Facebook m
 
 ***
 
-## **Option 2 — BlueSky**
+## **Option 8.2 — BlueSky**
 
 [**BlueSky**](https://bsky.app/ "https://bsky.app/") has millions of users, and it is what Twitter used to be.
 
 ***
 
-## **Option 3 — Mastodon**
+## **Option 8.3 — Mastodon**
 
 [**Mastodon**](https://mastodon.social/explore "https://mastodon.social/explore") is a de-centralized social media platform. It is growing in popularity, but needs work. It gets better everyday.
 
 ***
 
-## **Option 4 — Reddit**
+## **Option 8.4 — Reddit**
 
 Here are some useful subreddits to join:
 
@@ -1494,7 +1577,7 @@ Reddit has been cracking down on upvotes and posts that contain certain language
 
 ***
 
-## **Option 5 — Proton**
+## **Option 8.5 — Proton**
 
 [**Proton**](https://proton.me/ "https://proton.me/") is a free e-mail service, and offers other services, that prioritizes privacy.
 
@@ -1505,7 +1588,7 @@ It is now without controversy, however. I am including it because Proton, and it
 1. [**Read this first**](https://archive.ph/2yWGz "https://archive.ph/2yWGz")
 2. [**Read this second**](https://techissuestoday.com/proton-ceo-responds-to-backlash-after-his-post-supporting-trump-selection/ "https://techissuestoday.com/proton-ceo-responds-to-backlash-after-his-post-supporting-trump-selection/")
 3. [**Read this third**](https://medium.com/@ovenplayer/does-proton-really-support-trump-a-deeper-analysis-and-surprising-findings-aed4fee4305e "https://medium.com/@ovenplayer/does-proton-really-support-trump-a-deeper-analysis-and-surprising-findings-aed4fee4305e")
-4. [**Read thid fourth**](https://old.reddit.com/r/ProtonMail/comments/1i2nz9v/on_politics_and_proton_a_message_from_andy/ "https://old.reddit.com/r/ProtonMail/comments/1i2nz9v/on_politics_and_proton_a_message_from_andy/")
+4. [**Read this fourth**](https://old.reddit.com/r/ProtonMail/comments/1i2nz9v/on_politics_and_proton_a_message_from_andy/ "https://old.reddit.com/r/ProtonMail/comments/1i2nz9v/on_politics_and_proton_a_message_from_andy/")
 5. [**Here is a timeline of events**](https://techissuestoday.com/proton-ceo-responds-to-backlash-after-his-post-supporting-trump-selection/ "https://techissuestoday.com/proton-ceo-responds-to-backlash-after-his-post-supporting-trump-selection/")
 6. [**Here is a useful thread**](https://news.ycombinator.com/item?id=42837181 "https://news.ycombinator.com/item?id=42837181")
 
@@ -1517,13 +1600,13 @@ I think Proton is a good service and people should use it skeptically. I think h
 
 ***
 
-## **Option 6 — Tuta Mail**
+## **Option 8.6 — Tuta Mail**
 
 [**Tuta**](https://tuta.com/ "https://tuta.com/") is an end-to-end encrypted email service. It is free for individual users.
 
 ***
 
-## **Option 7 – Tech Alternatives List**
+## **Option 8.7 – Tech Alternatives List**
 
 **Current** 								**Alternative**
 
@@ -1565,7 +1648,7 @@ I think Proton is a good service and people should use it skeptically. I think h
 
 ***
 
-## **Option 8 — Reading Books**
+## **Option 8.8 — Reading Books**
 
 The party of “free speech” [**banning books**](https://pen.org/banned-books-list-2025/ "https://pen.org/banned-books-list-2025/"), [**burning books**](https://encyclopedia.ushmm.org/content/en/article/book-burning "https://encyclopedia.ushmm.org/content/en/article/book-burning"), and [**banning words**](https://groundreport.in/latest/full-list-of-words-banned-by-trump-including-climate-change-8839026 "https://groundreport.in/latest/full-list-of-words-banned-by-trump-including-climate-change-8839026").
 
@@ -1575,7 +1658,7 @@ When buying books, buy from local sellers or use [**www.BookShop.org**](http://w
 
 ***
 
-## **Option 9 — Go European**
+## **Option 8.9 — Go European**
 
 The [**Go European**](https://www.goeuropean.org/ "https://www.goeuropean.org/") website offers a lot of European based services that can replace many Big Tech apps and websites.
 
@@ -1583,7 +1666,7 @@ The [**r/BuyFromEU**](https://www.reddit.com/r/BuyFromEU/ "https://www.reddit.co
 
 ***
 
-## **Option 10 — Made in Canada**
+## **Option 8.10 — Made in Canada**
 
 Try the [**Made in Canada**](https://madeinca.ca/ "https://madeinca.ca/") website.
 
@@ -1594,7 +1677,7 @@ Use the website to identify some Canadian products near you, and buy them to sup
 # **S9 – Build Resilience**
 
 ## 
-**Option 1 — Protect Your Peace**
+**Option 9.1 — Protect Your Peace**
 
 ### **Stop Arguing Online**
 
@@ -1623,7 +1706,7 @@ This is a strategy that is outlined in the Debating MAGA section in Section 3.
 
 ***
 
-## **Option 2 — Unsecured Places**
+## **Option 9.2 — Unsecured Places**
 
 Do not discuss your resistance plans in unsecured areas at work or in public. Resist all sensitive discussions in conventional messaging apps, websites, or with people who do you have net vetted.
 
@@ -1631,7 +1714,7 @@ These things can only be used against you later on.
 
 ***
 
-## **Option 3 — NC, KC, LC, Gray Rock**
+## **Option 9.3 — NC, KC, LC, Gray Rock**
 
 There are 2 schools of thought on this:
 
@@ -1676,13 +1759,13 @@ Therefore, it is up to you to determine whether to use this form of resistance o
 
 ***
 
-## **Option 4 — The Joy of Life**
+## **Option 9.4 — The Joy of Life**
 
 You must find joy in life, otherwise your resistance has no meaning. Find joy wherever you can, and always remember the reasons you are resisting.
 
 ***
 
-## **Option 5 — Learn Real History**
+## **Option 9.5 — Learn Real History**
 
 If you are comfortable learning history, then you are not learning real history. The powerful write flowery, dulled down, whitewashed, do-not-blame-me history.
 
@@ -1711,7 +1794,7 @@ Regarding BlackPeopleTwitter — do not go in there, especially as a non-black p
 
 ***
 
-## **Option 6 — S.E.R.E.**
+## **Option 9.6 — S.E.R.E.**
 
 In the Marine Corps Survival, Evasion, Resistance, and Escape (SERE) School, resistance training includes handling mind games that captors might use to break your willpower. The training focuses on psychological resilience, maintaining discipline, and resisting manipulation. 
 
@@ -1734,7 +1817,7 @@ Considering the US government is intending to make people feel powerless, deject
 
 ***
 
-## **Option 7 — Flood the Zone**
+## **Option 9.7 — Flood the Zone**
 
 Steve Bannon created the *Flood the Zone* strategy and it is briefly outlined in Section 6. But how can we resist this strategy?
 
@@ -1769,7 +1852,7 @@ Therefore, anytime you see a new story regarding the Trump Adminstration, filter
 # **S10 – Untested Resistance Ideas**
 
 ## 
-**Option 1 — School Shooting Protests**
+**Option 10.1 — School Shooting Protests**
 
 Every time there is a school shooting, every educator in the country should report being sick the next day:
 
@@ -1788,7 +1871,7 @@ Everyone should fly their flags upside down for 1 week after every school shooti
 
 ***
 
-## **Option 2 — General Strike Redux**
+## **Option 10.2 — General Strike Redux**
 
 The gold standard of disruption is a general strike. However, getting to that point is very difficult. Therefore, we need to build up to that outcome. Here are some ideas:
 
@@ -1800,7 +1883,7 @@ General strike for a scheduled day. If demands are not met, then strike for 2 sc
 
 ***
 
-## **Option 3 — Junk Protest**
+## **Option 10.3 — Junk Protest**
 
 A [**highway in Florida got shutdown**](https://www.miamiherald.com/news/state/florida/article299490934.html "https://www.miamiherald.com/news/state/florida/article299490934.html") because a milk truck spilled 4,000+ gallons of milk. It caused a huge hours long traffic jam. This gives rise to 2 ideas:
 
@@ -1814,7 +1897,7 @@ This idea wrks best as a flash mob. Another point is this protest will only work
 
 ***
 
-## **Option 4 — Sue the Republican Party**
+## **Option 10.4 — Sue the Republican Party**
 
 Is it possible to bring a lawsuit against the Republican party, and sue them for all assets? They are doing irreparable damage to the country by surrendering their fiduciary duty to uphold things like controlling the power of the purse.
 
@@ -1822,13 +1905,13 @@ Is this possible?
 
 ***
 
-## **Option 5 — End Starlink**
+## **Option 10.5 — End Starlink**
 
 The US Government needs to seize Starlink, and decommission it. It has been weaponized, and Musk may have ways to use it even if it is taken from him. I think US citizens need to demand its removal.
 
 ***
 
-## **Option 6 — The Value of Money**
+## **Option 10.6 — The Value of Money**
 
 What percentage of people must agree that money has no value before it has an impact? I know if 99% of people ignore money, the 1% who has it all will lose a lot of power.
 
@@ -1838,7 +1921,7 @@ I know this is weird, and unlikely to occur. But it is a provocative thought.
 
 ***
 
-## **Option 7 — QR Flag**
+## **Option 10.7 — QR Flag**
 
 I feel someone needs to make a USA Flag where each star is a QR code. The QR code might even be able to be star-shaped, which would make it appear as if the USA is disintegrating.
 
@@ -1846,7 +1929,7 @@ Each QR code could lead to a useful cause.
  
 ***
 
-# **Coup Evidence**
+# **S11 – Coup Evidence**
 
 This section will compile links and documents that demonstrate a coup is happening. Many people do not believe it is a coup, so this section will help people have some resources if it is necessary for any reason:
 
@@ -1862,68 +1945,122 @@ This section will compile links and documents that demonstrate a coup is happeni
 10. How does [**denying truth**](https://www.haaretz.com/israel-news/2025-03-13/ty-article/musk-shares-claim-that-stalin-hitler-didnt-murder-millions-public-sector-workers-did/00000195-8ee8-d155-affd-8fec8f8e0000 "https://www.haaretz.com/israel-news/2025-03-13/ty-article/musk-shares-claim-that-stalin-hitler-didnt-murder-millions-public-sector-workers-did/00000195-8ee8-d155-affd-8fec8f8e0000") serve the American people?
  
 ***
- 
-# **Useful Links**
+
+# S12 **–** **Useful Viewpoints**
+
+Here is where I will share some useful viewpoints I encounter online that pertain to what we're facing.
+
+**Viewpoint - School Shootings**
+*"Killing 3 dozen elementary school children with an AR gets 'thoughts and prayers,' but vandalizing a Tesla is 'domestic terrorism?' This country is broken."*
+
+**Viewpoint - Diversity, Equity, Inclusion**
+[**Pete Buttigieg**](https://www.youtube.com/watch?v=bx62pk3kwf8&t=106s) explaining the opposite of DEI in a very simple way.
+
+**Viewpoint - Collective Action**
+From a Redditor:
+
+*Life lessons from marching band:*
+*“Never underestimate the power of a bunch of people doing the same thing at the same time.”*
+
+**Viewpoint - Collective Action**
+From Fight Club:
+
+*“Remember this. The people you're trying to step on, we're everyone you depend on. We're the people who do your laundry and cook your food and serve your dinner. We make your bed. We guard you while you're asleep. We drive the ambulances. We direct your call. We are cooks and taxi drivers and we know everything about you. We process your insurance claims and credit card charges. We control every part of your life.*
+
+*We are the middle children of history, raised by television to believe that someday we'll be millionaires and movie stars and rock stars, but we won't. And we're just learning this fact. So don't fuck with us.”* 
+
+
+***
+
+# S13 **–** Educational Materials
+
+Here is where I will share useful educational materials on current events**.**
+
+**13.1** 	[**Autocracy, Fascism, Authoritarianism, and Dictatorship](https://www.youtube.com/watch?v=vK6fALsenmw)** 
+
+**13.2**		[**Tesla's Declining Stock**](https://www.youtube.com/watch?v=k9kmK0St9Jg) 
+
+**13.3**
+
+
+
+***
+
+# **S14 – Useful Links**
 
 Here are useful links from across the political spectrum:
 
-1. [**Resources from Tim Kaine for Federal Workers**
+[**Resources from Tim Kaine for Federal Workers**
 ](https://www.kaine.senate.gov/federalworkers "https://www.kaine.senate.gov/federalworkers")Tim Kaine is trying to help federal workers.
- 
-2. [**For probationary federal workers who were illegally fired**
+
+
+[**For probationary federal workers who were illegally fired**
 ](https://www.mspb.gov/studies/adverse_action_report/14_IdentifyingProbationers.htm "https://www.mspb.gov/studies/adverse_action_report/14_IdentifyingProbationers.htm")Resources for probies who were illegally fired.
- 
-3. [**Public Service Alliance**
+
+
+[**Public Service Alliance**
 ](https://thepublicservicealliance.com/introducing-the-public-service-alliance-strengthening-america-by-empowering-public-servants/ "https://thepublicservicealliance.com/introducing-the-public-service-alliance-strengthening-america-by-empowering-public-servants/")Another useful link for public service workers.
- 
-4. [**Meidas Touch Podcast**](https://www.youtube.com/c/MeidasTouch/videos "https://www.youtube.com/c/MeidasTouch/videos")
+
+
+[**Meidas Touch Podcast**](https://www.youtube.com/c/MeidasTouch/videos "https://www.youtube.com/c/MeidasTouch/videos")
 Replaced Joe Rogan as #1 podcast recently.
- 
-5. [**An extremely informative zine that is updated and always uses the same link**
+
+
+[**An extremely informative zine that is updated and always uses the same link**
 ](https://zine.itsgoingdown.org/igd.pdf "https://zine.itsgoingdown.org/igd.pdf")This zine changes, but informs people of current events and news.
- 
-6. [**Industrial Workers of the World**
+
+
+[**Industrial Workers of the World**
 ](https://www.iww.org/wp-content/uploads/2023/09/think-it-over-booklet.pdf "https://www.iww.org/wp-content/uploads/2023/09/think-it-over-booklet.pdf")This group organizes against the big business interest to impoverish the masses.
- 
-7. [**Resisting Project 2025 Website**
+
+
+[**Resisting Project 2025 Website**
 ](https://www.stopthecoup2025.org/downloads "https://www.stopthecoup2025.org/downloads")This group is about resisting Project 2025.
- 
-8. [**Megathread of Printables**
+
+
+[**Megathread of Printables**
 ](https://www.reddit.com/r/Anarchism/comments/1ii96wk/megathread_of_things_to_print_and_distro_for_the/ "https://www.reddit.com/r/Anarchism/comments/1ii96wk/megathread_of_things_to_print_and_distro_for_the/")This thread contains many free printable and downloadable items.
- 
-9. [**Project 2025 Tracker**
+
+
+[**Project 2025 Tracker**
 ](https://www.project2025.observer/ "https://www.project2025.observer/")Tracks the progress of 2025, and breaks down its goals.
- 
-10. [**From Dictatorship to Democracy: A Conceptual Framwork for Liberation**
+
+
+[**From Dictatorship to Democracy: A Conceptual Framwork for Liberation**
 ](https://www.nonviolent-conflict.org/resource/from-dictatorship-to-democracy-a-conceptual-framework-for-liberation/ "https://www.nonviolent-conflict.org/resource/from-dictatorship-to-democracy-a-conceptual-framework-for-liberation/")This book has been translated into 30 languages, and has been relevant for decades.
- 
-11. [**198 Methods of Non-Violent Action by Gene Sharp**
+
+
+[**198 Methods of Non-Violent Action by Gene Sharp**
 ](https://commonslibrary.org/198-methods-of-nonviolent-action/ "https://commonslibrary.org/198-methods-of-nonviolent-action/")This features a list of 198 ways to non-violently protest and resist
- 
-12. [**Simple Sabotage Field Manual**
+
+
+[**Simple Sabotage Field Manual**
 ](https://www.gutenberg.org/ebooks/26184 "https://www.gutenberg.org/ebooks/26184")Released in the 1940s, and still relevant today
- 
-13. [**How Fascism Works**
+
+
+[**How Fascism Works**
 ](https://books.google.ca/books/about/How_Fascism_Works.html?id=NARIDwAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&gboemv=1&ovdme=1&redir_esc=y#v=onepage&q&f=false "https://books.google.ca/books/about/How_Fascism_Works.html?id=NARIDwAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&gboemv=1&ovdme=1&redir_esc=y#v=onepage&q&f=false")A guide to understanding how fascism works
- 
-14. **Anonymous [Video 1](https://www.youtube.com/watch?v=cI27LEimfYg "https://www.youtube.com/watch?v=cI27LEimfYg") and [Video 2
+
+
+**Anonymous [Video 1](https://www.youtube.com/watch?v=cI27LEimfYg "https://www.youtube.com/watch?v=cI27LEimfYg") and [Video 2
 ](https://www.youtube.com/watch?v=RvnUWIrg2iY "https://www.youtube.com/watch?v=RvnUWIrg2iY")**Anonymous will not save us, but they will support us. They offer a disruption that will only work if people rise up. So, take note.
- 
-15. [**The Cost of Insulin Overtime**](https://www.zerohedge.com/medical/visualizing-cost-insulin-us-2004-2024 "https://www.zerohedge.com/medical/visualizing-cost-insulin-us-2004-2024") - this has a useful chart to keep an eye on.
- 
-16. [**National Egg Prices, with graph!**
+
+
+[**The Cost of Insulin Overtime**](https://www.zerohedge.com/medical/visualizing-cost-insulin-us-2004-2024 "https://www.zerohedge.com/medical/visualizing-cost-insulin-us-2004-2024") - this has a useful chart to keep an eye on.
+
+
+[**National Egg Prices, with graph!**
 ](https://eggprices.org/national-data "https://eggprices.org/national-data")This website tracks the price of eggs, which is useful information right now.
- 
-17. [**Housing Prices Article**
+
+
+[**Housing Prices Article**
 ](https://www.barrons.com/articles/trump-home-housing-prices-real-estate-tariffs-fe89d86d?mod=hp_FEEDS_3_REALESTATE_1 "https://www.barrons.com/articles/trump-home-housing-prices-real-estate-tariffs-fe89d86d?mod=hp_FEEDS_3_REALESTATE_1")Barrons writes articles exclusively for people to use to make decisions in the stock market. This article should send alarm bells for people.
  
  
 ***
  
-# **Final Plea**
+# **S15 – Final Plea**
 
-The world is looking at the US citizens, and most of us are sitting on the couch. The world needs us to protest. We must defeat the tech bro oligarchy, fascism, and authoritarianism. We need to hold billionaires accountable, *just like we help people accountable in WWII.*
+[**The world is looking**](https://www.reddit.com/r/europe/comments/1j46edt/we_are_fighting_against_a_dictator_backed_by_a/) at the US citizens, and most of us are sitting on the couch. The world needs us to protest. We must defeat the tech bro oligarchy, fascism, and authoritarianism. We need to hold billionaires accountable, *just like we help people accountable in WWII.*
 
-
- 
-*If everything fails, I leave you with [**this song**](https://www.youtube.com/watch?v=XfUo2mPYQ2E&ab_channel=LakeshoreRecords "https://www.youtube.com/watch?v=XfUo2mPYQ2E&ab_channel=LakeshoreRecords"). Reflect on its title, and chorus.*
+*If everything fails, I leave you with [**this song**](https://www.youtube.com/watch?v=XfUo2mPYQ2E&ab_channel=LakeshoreRecords "https://www.youtube.com/watch?v=XfUo2mPYQ2E&ab_channel=LakeshoreRecords").*
